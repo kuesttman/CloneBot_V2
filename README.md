@@ -9,8 +9,8 @@
 <h2><b>📑 ÍNDICE</b></h2>
 <p><b>Navegue facilmente pelo guia e aprenda sobre o Powerful CloneBot V2 e os termos relacionados a ele.</b></p>
 <p><b><a href="https://github.com/kuesttman/CloneBot_V2#clonebot-v2-">🔥 CloneBot V2</a></b></p>
-<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-whats-new">🆕 Novidades!</a></b></p>
-<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-notice">⛔ AVISO</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-novidades">🆕 Novidades!</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-aviso">⛔ AVISO</a></b></p>
 <p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8F-how-to-use">⚙️ Como usar?</a></b> </p>
 <p><b><a href="https://github.com/kuesttman/CloneBot_V2/blob/main/Commands.md">➥🔩Comandos para BotFather</a></b></p>
 <p><b><a href="https://github.com/kuesttman/CloneBot_V2#making-shared-drive">🫙 Fazendo unidade compartilhada</a></b></p>
