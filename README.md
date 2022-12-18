@@ -8,33 +8,33 @@
 <!---Índice--->
 <h2><b>📑 ÍNDICE</b></h2>
 <p><b>Navegue facilmente pelo guia e aprenda sobre o Powerful CloneBot V2 e os termos relacionados a ele.</b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#clonebot-v2-">🔥 CloneBot V2</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#-whats-new">🆕 Novidades!</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#-notice">⛔ AVISO</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8F-how-to-use">⚙️ Como usar?</a></b> </p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2/blob/main/Commands.md">➥🔩Comandos para BotFather</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#making-shared-drive">🫙 Fazendo unidade compartilhada</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#using-website">➥🌐Como usar o site</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#using-telegram-bot">➥🤖Como usar o Telegram Bot</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#python-with-pip-installation">🐍Python com instalação PIP</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8Fdeployment">🕹️Implantação</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#getting-config_file_url">➥📎Obtendo CONFIG_FILE_URL</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#using-drgraph">-->📃Como usar o Dr.Graph</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#using-file-stream-bot">-->🤖Como usar o File Stream Bot</a></b></ p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8Fusing-github-gist">-->✏️Como usar o GitHub Gist</a></b> </p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#build-or-deploy-using-docker">➥🐳Criar ou implantar usando o Docker</a></b>< /p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8Fdeploy-on-fly">➥🕊️Deploy on Fly</a></b></ p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8Fdeploy-on-clever-cloud">➥♦️Deploy on Clever Cloud</a></b ></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#deploy-on-okteto">➥🪬Implantar no Okteto</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8F-deploy-on-vps-or-pc">➥🖥️ Implante em VPS ou PC</ a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#deploy-on-termux">➥📱Implantar no Termux</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#deploy-on-scalingo">➥🎲Implantar no Scalingo</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#-service-accounts">🪪 Contas de serviço</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8F-create-service-accounts">➥🛠️ Criar contas de serviço</a></b> </p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#-adding-in-google-group">➥🌐 Adicionando no Grupo do Google</a></b></p >
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#contact-us">⛑Fale conosco!</a></b></p>
-<p><b><a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8Fcredits--thanks">❤️Créditos e agradecimentos</a></b></p>
-<p><b><a href"https://github.com/TheCaduceus/CloneBot_V2#other-projects"></a>🍵Outros projetos</b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#clonebot-v2-">🔥 CloneBot V2</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-whats-new">🆕 Novidades!</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-notice">⛔ AVISO</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8F-how-to-use">⚙️ Como usar?</a></b> </p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2/blob/main/Commands.md">➥🔩Comandos para BotFather</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#making-shared-drive">🫙 Fazendo unidade compartilhada</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#using-website">➥🌐Como usar o site</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#using-telegram-bot">➥🤖Como usar o Telegram Bot</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#python-with-pip-installation">🐍Python com instalação PIP</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8Fdeployment">🕹️Implantação</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#getting-config_file_url">➥📎Obtendo CONFIG_FILE_URL</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#using-drgraph">-->📃Como usar o Dr.Graph</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#using-file-stream-bot">-->🤖Como usar o File Stream Bot</a></b></ p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8Fusing-github-gist">-->✏️Como usar o GitHub Gist</a></b> </p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#build-or-deploy-using-docker">➥🐳Criar ou implantar usando o Docker</a></b>< /p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8Fdeploy-on-fly">➥🕊️Deploy on Fly</a></b></ p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8Fdeploy-on-clever-cloud">➥♦️Deploy on Clever Cloud</a></b ></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#deploy-on-okteto">➥🪬Implantar no Okteto</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8F-deploy-on-vps-or-pc">➥🖥️ Implante em VPS ou PC</ a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#deploy-on-termux">➥📱Implantar no Termux</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#deploy-on-scalingo">➥🎲Implantar no Scalingo</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-service-accounts">🪪 Contas de serviço</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8F-create-service-accounts">➥🛠️ Criar contas de serviço</a></b> </p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#-adding-in-google-group">➥🌐 Adicionando no Grupo do Google</a></b></p >
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#contact-us">⛑Fale conosco!</a></b></p>
+<p><b><a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8Fcredits--thanks">❤️Créditos e agradecimentos</a></b></p>
+<p><b><a href"https://github.com/kuesttman/CloneBot_V2#other-projects"></a>🍵Outros projetos</b></p>
 <!---ChangeLog--->
 <h2><b>🆕 Novidades!</b></h2>
 <p><b>1.Gclone atualizado para v1.59.1 (mais recente)!😉</b></p>
@@ -43,7 +43,7 @@
 <p><b>4.Resolvidos erros de escuta $PORT no Okteto e outras plataformas.⚙️</p>
 <p><b>5. A antiga imagem do Docker <code>ghcr.io/thecaduceus/clonebot_v2:main</code> agora não é mais suportada e obsoleta!🧹</b></p>
 <p><b>6.Muitas outras correções, alterações e melhorias que podem ser verificadas no <code>Changelog</code>.</b></p>
-<p><b>Changelog completo: <a href="https://github.com/TheCaduceus/CloneBot_V2/compare/V2.1.4...v2.2.9"><code>V2.1.4...v2. 2.9</code></a></b></p>
+<p><b>Changelog completo: <a href="https://github.com/kuesttman/CloneBot_V2/compare/V2.1.4...v2.2.9"><code>V2.1.4...v2. 2.9</code></a></b></p>
 <!---AVISO--->
 <h2><b>⛔ AVISO</b></h2>
 <p><b>1.Você pode precisar de uma conta Fly.io/Clever-Cloud/Okteto/Scalingo ao implantar o CloneBot V2 em plataformas respeitadas.</b></p>
@@ -58,9 +58,9 @@
 <p><b>10.PRs para apenas alterar a mensagem de status ou similar não são aceitos! isso não significa que PRs incluindo erros de digitação serão rejeitados.</b></p>
 <!---Implantação--->
 <h2><b>⚙️ Como usar?</b></h2>
-<p><b>CloneBot V2 é um bot muito direto e fácil de usar. Se você implantou seu CloneBot V2, considere adicionar comandos nele por meio de <a href="https://t.me/BotFather">@BotFather</a> para tornar mais fácil para outros usuários conhecerem os comandos do bot, aqui está o <a href="https://github.com/TheCaduceus/CloneBot_V2/blob/main/Commands.md" alt="Command-list">lista de comandos</a> a ser definida em <a href="https: //t.me/BotFather">@BotFather</a>:</b></p>
-<h4><b>1. Primeiro, converta a pasta de contas de suas contas de serviço em <code>accounts.zip</code>, envie-a para o bot e escreva <code>/sa</code> na legenda ou envie <code> /sa</code> como resposta ao arquivo <code>accounts.zip</code>. Não tem contas de serviço? <a href="https://github.com/TheCaduceus/CloneBot_V2#-service-accounts">Aprenda aqui</a> como criar</b></h4>
-<h4><b>2. Agora envie <code>/folders</code> para o seu CloneBot V2 e, em seguida, o bot mostrará o nome do Shared Drives no qual você adicionou o Grupo do Google de suas contas de serviço, selecione Shared Drive ou diretório disponível nele como destino. Não adicionou contas de serviço no Grupo do Google? <a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8F-create-service-accounts">Aprenda aqui</a> como fazer.</b></h4>
+<p><b>CloneBot V2 é um bot muito direto e fácil de usar. Se você implantou seu CloneBot V2, considere adicionar comandos nele por meio de <a href="https://t.me/BotFather">@BotFather</a> para tornar mais fácil para outros usuários conhecerem os comandos do bot, aqui está o <a href="https://github.com/kuesttman/CloneBot_V2/blob/main/Commands.md" alt="Command-list">lista de comandos</a> a ser definida em <a href="https: //t.me/BotFather">@BotFather</a>:</b></p>
+<h4><b>1. Primeiro, converta a pasta de contas de suas contas de serviço em <code>accounts.zip</code>, envie-a para o bot e escreva <code>/sa</code> na legenda ou envie <code> /sa</code> como resposta ao arquivo <code>accounts.zip</code>. Não tem contas de serviço? <a href="https://github.com/kuesttman/CloneBot_V2#-service-accounts">Aprenda aqui</a> como criar</b></h4>
+<h4><b>2. Agora envie <code>/folders</code> para o seu CloneBot V2 e, em seguida, o bot mostrará o nome do Shared Drives no qual você adicionou o Grupo do Google de suas contas de serviço, selecione Shared Drive ou diretório disponível nele como destino. Não adicionou contas de serviço no Grupo do Google? <a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8F-create-service-accounts">Aprenda aqui</a> como fazer.</b></h4>
 <h4><b>3.Seu CloneBot V2 agora está pronto para ser usado! basta enviar qualquer link de compartilhamento do Google Drive e selecionar a pasta de destino que você definiu antes para clonar os dados nela.</b></h4>
 <h4><b>4. Além disso, os comandos <code>/ban</code> e <code>/unban</code> são para desautorizar ou autorizar o usuário novamente e o comando <code>/id</code> é para obtenha seu ID de usuário do Telegram.</b></h4>
 <p><b>⛔OBSERVAÇÃO: Cada usuário autorizado deve carregar seu próprio <code>accounts.zip</code> para usar o CloneBot V2.</b></p>
@@ -77,7 +77,7 @@
 <p><b><code>Seleção de domínio</code>: usando a lista suspensa, selecione um domínio de trabalho através do qual você deseja criar a unidade compartilhada ou, se não tiver certeza, mantenha-o como <code>Aleatório< /código>.</b></p>
 <img src="https://user-images.githubusercontent.com/87380104/180253709-a8c8f8b9-8f17-4837-adc8-6ecead61f42a.png">
 <h4><b>2.Uma vez feito! Resolva o hcaptcha para provar que você é humano e clique em <code>CRIAR</code>.</b></h4>
-<h4><b>3.Após a criação, adicione o Grupo do Google de suas contas de serviço nesse Drive compartilhado para usá-lo com o CloneBot V2. Não sabe como? <a href="https://github.com/TheCaduceus/CloneBot_V2#-adding-in-google-group">Aprenda aqui</a></b></h4>
+<h4><b>3.Após a criação, adicione o Grupo do Google de suas contas de serviço nesse Drive compartilhado para usá-lo com o CloneBot V2. Não sabe como? <a href="https://github.com/kuesttman/CloneBot_V2#-adding-in-google-group">Aprenda aqui</a></b></h4>
 <img src="https://user-images.githubusercontent.com/87380104/180262451-1240e3bd-b0f1-4403-837f-ee0b6c179beb.png">
 <h4><b>4.Todos os problemas ou códigos de erro relacionados ao site da MsGsuite com suas soluções estão listados <a href="https://t.me/msgsuitechat/154243">aqui</a>.</b> </h4>
 <h4><b><i>🤖Usando o Telegram Bot:</i></b></h4>
@@ -87,7 +87,7 @@
 <img src="https://user-images.githubusercontent.com/87380104/180258551-4bbd0802-0655-4ec1-97e8-32aa46dce184.png">
 <p><b>⛔OBSERVAÇÃO: o Drive Compartilhado é um armazenamento temporário! use-o com cuidado e mantenha o backup de seus dados sempre com você.</b></p>
 <h2><b>🐍Python com instalação PIP</b></h2>
-<p><b>Geralmente, vejo pessoas executando cegamente e ignorando as opções fornecidas pelo Setup para instalar o Python e o PIP, o que é mais importante <a href="https://github.com/TheCaduceus/CloneBot_V2#- service-accounts">Contas de serviço</a> ou para executar o CloneBot V2. Pessoas como ele estão lá apenas para inundar o bate-papo de suporte e abusar dos moderadores também! Por isso, criei esta Seção para enfrentar essa doença especial. Vamos nomear esta doença como Cegueira 😂</b></p>
+<p><b>Geralmente, vejo pessoas executando cegamente e ignorando as opções fornecidas pelo Setup para instalar o Python e o PIP, o que é mais importante <a href="https://github.com/kuesttman/CloneBot_V2#- service-accounts">Contas de serviço</a> ou para executar o CloneBot V2. Pessoas como ele estão lá apenas para inundar o bate-papo de suporte e abusar dos moderadores também! Por isso, criei esta Seção para enfrentar essa doença especial. Vamos nomear esta doença como Cegueira 😂</b></p>
 <h4><b>1.Execute a instalação do Python novamente e clique em <code>Personalizar instalação</code>:</b></h4>
 <img src="https://user-images.githubusercontent.com/87380104/180266218-8a8f822f-d7f6-4896-862c-ffa196d7cdee.png">
 <h4><b>2.Agora selecione todas as opções conforme mostrado na imagem e clique em <code>Avançar</code>.</b></h4>
@@ -118,7 +118,7 @@ programa operável ou arquivo em lote.</code></b></p>
 <p><b>⛔NOTA: Tudo em <code>config.ini</code> deve ser <code>Int</code>.</b></p>
 <h3><b>📎Obtendo CONFIG_FILE_URL</b></h3>
 <p><b><code>CONFIG_FILE_URL</code> é a URL para o arquivo <code>config.ini</code> que contém valores das variáveis ​​discutidas acima, vamos ver como obter seu <code>CONFIG_FILE_URL</code> facilmente:</b></p>
-<h4><b>0.Primeiro abra <a href="https://github.com/TheCaduceus/CloneBot_V2/blob/main/sample-config.ini"> arquivo sample-config.ini</a> e copie seu código.</b></h4>
+<h4><b>0.Primeiro abra <a href="https://github.com/kuesttman/CloneBot_V2/blob/main/sample-config.ini"> arquivo sample-config.ini</a> e copie seu código.</b></h4>
 <img src="Img/32.png" alt="32">
 <h3><b>📃Usando Dr.Graph:</b></h3>
 <h4><b>1. Abra <a href="https://drgraph.cf/">Dr.Graph</a>, ative <code>Code</code> e <code>Raw</ code> e cole as variáveis ​​discutidas acima!</b></h4>
@@ -150,7 +150,7 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 <h4><b>2.Ou, para usar como imagem base:</b></h4>
 <p><b>-><code>DE ghcr.io/thecaduceus/clonebot-v2:main</code></b></p>
 <h4><b>3.A antiga imagem do Docker <code>ghcr.io/thecaduceus/clonebot_v2:main</code> agora não é mais suportada e obsoleta!</b></h4>
-<h4><b>4.Deseja construir sua própria imagem docker? bem! <a href="https://github.com/TheCaduceus/CloneBot_V2/blob/main/.github/workflows/Docker-Build-Guide.md" alt="Build Docker Guide">aqui</a> está o guia .</b></h4>
+<h4><b>4.Deseja construir sua própria imagem docker? bem! <a href="https://github.com/kuesttman/CloneBot_V2/blob/main/.github/workflows/Docker-Build-Guide.md" alt="Build Docker Guide">aqui</a> está o guia .</b></h4>
 <p><b>⛔NOTA:</b></p>
 <p><b>1. A imagem do Docker aceita apenas <code>CONFIG_FILE_URL</code></b></p>
 <p><b>2.Use sua própria imagem do Docker apenas para implantação em VPS! Usá-lo para implantação em plataformas como Heroku, Okteto ou Scalingo simplesmente causará a suspensão da conta.</b></p>
@@ -165,10 +165,10 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 <p><b><code>brew install flyctl</code></b></p>
 <p><b><i>Windows Powershell:</i></b></p>
 <p><b><code>iwr https://fly.io/install.ps1 -useb | iex</code></b></p>
-<p><b><i>Termux:</i> (Consulte <a href="https://github.com/TheCaduceus/CloneBot_V2/discussions/54">#54</a>)</b> </p>
+<p><b><i>Termux:</i> (Consulte <a href="https://github.com/kuesttman/CloneBot_V2/discussions/54">#54</a>)</b> </p>
 <p><b><code>pkg install flyctl</code></b></p>
 <h4><b>3.Baixe o Repositório CloneBot_V2:</b></h4>
-<p><b><code>git clone https://github.com/TheCaduceus/CloneBot_V2</code></b></p>
+<p><b><code>git clone https://github.com/kuesttman/CloneBot_V2</code></b></p>
 <h4><b>4.Agora execute os seguintes comandos:</b></h4>
 <p><b>
 <code>cd CloneBot_V2</code> - Para alterar o diretório.</br>
@@ -208,7 +208,7 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 <img src="https://user-images.githubusercontent.com/87380104/184604532-d1e3db06-1778-482c-a0d8-bd41cc5dbe1d.png">
 <h4><b>7. Agora ele irá navegar para a página "Complementos", basta clicar em <code>NÃO PRECISO DE NENHUM COMPLEMENTO</code> porque... você já sabe disso!🌟 ainda por que ? ele é projetado para sistemas de baixo custo.</b></h4>
 <img src="https://user-images.githubusercontent.com/87380104/184605060-83283c09-043b-475e-90ca-a9e4ad315a71.png">
-<h4><b>8. Em seguida, insira <code>CONFIG_FILE_URL</code> como nome da variável e o <code>CONFIG_FILE_URL</code> que você acabou de criar <a href="https://github.com/TheCaduceus/ CloneBot_V2#getting-config_file_url">aqui!</a> e o Clever Cloud começará a implantar sua instância.</b></h4>
+<h4><b>8. Em seguida, insira <code>CONFIG_FILE_URL</code> como nome da variável e o <code>CONFIG_FILE_URL</code> que você acabou de criar <a href="https://github.com/kuesttman/ CloneBot_V2#getting-config_file_url">aqui!</a> e o Clever Cloud começará a implantar sua instância.</b></h4>
 <img src="https://user-images.githubusercontent.com/87380104/184605716-4dd3d534-b866-45fc-af43-39c0a11e7c2c.png">
 <h4><b>9.Finalmente! para verificar se o CloneBot V2 está funcionando perfeitamente, você pode abrir o domínio (ele exibirá o guia) fornecido pela Clever Cloud para sua instância, que pode ser coletado na guia <code>Domain Names</code> e para logs você pode verificar < guia code>Logs</code>.</b></h4>
 <img src="https://user-images.githubusercontent.com/87380104/184609344-9d32243c-f8d8-4b22-9ee1-1c8cec455b9e.png">
@@ -221,7 +221,7 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 <img src="Img/39.png" alt="39">
 <h4><b>3. Depois disso, selecione seu repositório bifurcado e selecione branch <code>main</code> e adicione o seguinte valor com cuidado:</b></h4>
 <p><b>
-	<code>CONFIG_FILE_URL</code> - Digite <code>CONFIG_FILE_URL</code>, que você acabou de criar <a href="https://github.com/TheCaduceus/CloneBot_V2#getting-config_file_url">aqui</a> .<br>
+	<code>CONFIG_FILE_URL</code> - Digite <code>CONFIG_FILE_URL</code>, que você acabou de criar <a href="https://github.com/kuesttman/CloneBot_V2#getting-config_file_url">aqui</a> .<br>
 </b></p>
 <img src="Img/40.png" alt="40">
 <h4><b>4.Uma vez feito! pressione "Launch" e você fez isso com sucesso! Sim 😊</b></h4>
@@ -242,7 +242,7 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 </b></p>
 <h4><b>2.Baixar repositório:</b></h4>
 <p><b>
-	-><code>git clone https://github.com/TheCaduceus/CloneBot_V2</code><br>
+	-><code>git clone https://github.com/kuesttman/CloneBot_V2</code><br>
 	->Ou Baixe <a href="https://drfilestreambot.cf/AgADJA4573">Aqui</a>
 </b></p>
 <h4><b>3.Instalar CloneBot_V2 Requisitos:</b></h4>
@@ -261,8 +261,8 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 </b></p>
 <h4><b>5.Edite o arquivo <code>Config.ini</code></b></h4>
 <p><b>
-	->Abra o arquivo <code>Config.ini</code> em qualquer editor de texto e insira os valores das variáveis ​​como <a href="https://github.com/TheCaduceus/CloneBot_V2#%EF%B8%8Fdeployment"> escrito aqui</a><br>
-	<br>Ou você pode baixar seu arquivo <code>Config.ini</code> de uma fonte externa usando <a href="https://github.com/TheCaduceus/CloneBot_V2#getting-config_file_url">CONFIG_FILE_URL</a> usando a linha de comando:<br>
+	->Abra o arquivo <code>Config.ini</code> em qualquer editor de texto e insira os valores das variáveis ​​como <a href="https://github.com/kuesttman/CloneBot_V2#%EF%B8%8Fdeployment"> escrito aqui</a><br>
+	<br>Ou você pode baixar seu arquivo <code>Config.ini</code> de uma fonte externa usando <a href="https://github.com/kuesttman/CloneBot_V2#getting-config_file_url">CONFIG_FILE_URL</a> usando a linha de comando:<br>
 	-><code>curl CONFIG_FILE_URL >> telegram_gcloner/config.ini</code>
 </b></p>
 <h4><b>6.Inicie o CloneBot V2:</b></h4>
@@ -278,11 +278,11 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 <h2><b>📱Implantar no Termux</b></h2>
 <p><b>O Termux é o melhor aplicativo para executar e usar ferramentas de linha de comando no celular, o CloneBot também pode ser implantado no seu celular usando o próprio Termux, não se preocupe porque o CloneBot V2 é muito leve e projetado para ser implantado mesmo em sistemas de baixo custo e, portanto, não causará carga pesada em seu celular.</b></p>
 <h4><b>1.Baixe o aplicativo Termux: <a href="https://github.com/termux/termux-app/releases" alt="Download-Termux">Baixe aqui</a></b ></h4>
-<h4><b>2. Escolha o código específico <a href="https://github.com/TheCaduceus/CloneBot_V2/blob/main/Termux-Guide.md">a partir daqui</a> com base na arquitetura do seu telefone.</b></h4>
+<h4><b>2. Escolha o código específico <a href="https://github.com/kuesttman/CloneBot_V2/blob/main/Termux-Guide.md">a partir daqui</a> com base na arquitetura do seu telefone.</b></h4>
 <h4><b>3.Execute o código obtido acima e siga as instruções na tela.</b></h4>
 <h2><b>🎲Implantar no Scalingo</b></h2>
 <p><b>CloneBot V2 também pode ser implantado na nuvem Scalingo, basta implantar <code>Scalingo</code> Branch.</b></p>
-<p><b>Mude para <a href="https://github.com/TheCaduceus/CloneBot_V2/tree/Scalingo">Scalingo Branch</a> para obter um guia.</b></p>
+<p><b>Mude para <a href="https://github.com/kuesttman/CloneBot_V2/tree/Scalingo">Scalingo Branch</a> para obter um guia.</b></p>
 <!---Criando contas de serviço--->
 <h2><b>🪪 Contas de serviço</b></h2>
 <p><b>As contas de serviço são como contas normais do Google e, portanto, têm os mesmos limites de upload ou download que as contas do Google, que são 750 GB de upload e 10 TB de download. Eles são usados ​​para agir em nome de uma Conta do Google e, portanto, podemos usá-los para evitar atingir os limites do Google Drive, criando-os em massa. Depois de criar contas de serviço, precisamos adicioná-las ao Grupo do Google para que possamos adicionar diretamente o ID de e-mail do Grupo do Google no Drive compartilhado no lugar de adicionar cada Conta de serviço manualmente.</b></p>
@@ -375,7 +375,7 @@ https://gist.githubusercontent.com/UserName/0ee24eXXXXXXXXXXXXXXX6b/raw/config.i
 <h4><b>Entre em contato diretamente com o desenvolvedor usando o Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
 <h2><b>❤️Créditos e agradecimentos</b></h2>
 <h4><b>🔥CloneBot V2:</b></h4>
-<p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: Por fazer este projeto e guia.</b></p>
+<p><b><a href="https://github.com/kuesttman">Dr.Caduceus</a>: Por fazer este projeto e guia.</b></p>
 <p><b><a href="https://github.com/l3v11">Levi</a>: Para Gclone e atualizá-lo.</b></p>
 <h4><b>⚡CloneBot:</b></h4>
 <p><b>
